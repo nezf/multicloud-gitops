@@ -25,12 +25,12 @@ data:
           </style>
         </head>
           <body>
-            <h1>Hello World!</h1>
+            <!--<h1>Hello World!</h1>
             <br/>
             <h2>
             Simple HTTPD test app.<br>
             </h2>
-            <hr>
-            <!--<iframe src="https://www.agoerp.com/erp/Sign.php" title="AGo | Login &amp; Registro"> </iframe>-->
+            <hr>-->
+            <iframe src="https://www.agoerp.com/erp/Sign.php" title="AGo | Login &amp; Registro"> </iframe>
           </body>
       </html>
