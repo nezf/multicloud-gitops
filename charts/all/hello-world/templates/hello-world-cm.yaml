@@ -19,6 +19,6 @@ data:
             Hub Cluster domain is 'apps.cluster-nhptf.nhptf.sandbox411.opentlc.com' <br>
             Pod is running on Local Cluster Domain 'apps.cluster-nhptf.nhptf.sandbox411.opentlc.com' <br>
             </h2>-->
-            <iframe src="https://www.agoerp.com/erp/Sign.php" title="AGo | Login &amp; Registro"> </iframe>
+            <iframe src="https://www.agoerp.com/erp/Sign.php" title="AGo | Login &amp; Registro" style="width:100%; height:100%;"> </iframe>
           </body>
       </html>
